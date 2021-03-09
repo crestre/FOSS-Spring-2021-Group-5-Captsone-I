@@ -8,14 +8,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Prof. Carla Restrepo
 
----
 
-### Kayla C. Mathes
 
 - Information 1
 - Information 2
 
 Link to [my website](http://tlselab.uprrp.edu/people/carla.htm)
+
+---
+### Kayla C. Mathes 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
