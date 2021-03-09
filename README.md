@@ -8,6 +8,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Prof. Carla Restrepo
 
+---
+
+### Kayla C. Mathes
+
 - Information 1
 - Information 2
 
