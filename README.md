@@ -6,12 +6,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Group Members
 
-### Prof. Carla Restrepo
+### Carla Restrepo
 
+#### Professor University of Puerto Rio Rio Piedras
+[Lab website] (http://tlselab.uprrp.edu/)
 
-
-- Information 1
-- Information 2
+#### Research Interests
+ - Large-scale ecology
 
 Link to [my website](http://tlselab.uprrp.edu/people/carla.htm)
 
