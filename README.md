@@ -13,6 +13,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 #### Research Interests
  - Large-scale ecology
+ - Macroecology
+ - Carbon cyling mediated by landslide activity
 
 Link to [my website](http://tlselab.uprrp.edu/people/carla.htm)
 
