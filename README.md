@@ -40,7 +40,7 @@ Forest Resilience and Threshold Experiment (FoRTE)
 
 #### Education
 University of Michigan (Graduation 2018)
-- Bachelors of Science: Envioronment Science
+- Bachelors of Science: Environmental Science
 - Bachelors of Music: Cello performance 
 
 ---
