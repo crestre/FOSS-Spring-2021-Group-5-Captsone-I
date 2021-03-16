@@ -19,7 +19,32 @@ Link to [my website](http://tlselab.uprrp.edu/people/carla.htm)
 ### Kayla C. Mathes 
 
 #### PhD Student: Virginia Commonwealth University 
-[Labwebsite](http://www.people.vcu.edu/~cmgough/)
+[Lab website](http://www.people.vcu.edu/~cmgough/)
+
+
+##### Research Interests 
+  -Soil carbon cycling dynamics
+  -Forest disturbnce ecology
+  -Ecosystem stability/global change research 
+  
+##### Current Projects: 
+Forest Resilience and Threshold Experiment (FoRTE)
+[Project Description/fortedata](https://fortexperiment.github.io/fortedata/)
+
+
+##### Other Professional Interests
+
+-Climate change policy advocacy 
+-Building more creative and wide-reaching platforms of science communication 
+
+
+##### Education
+University of Michigan (Graduation 2018)
+-Bachelors of Science: Envioronment Science
+-Bachelors of Music: Cello performance 
+
+---
+ 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
