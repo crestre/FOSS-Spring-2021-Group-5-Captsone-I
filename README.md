@@ -22,26 +22,26 @@ Link to [my website](http://tlselab.uprrp.edu/people/carla.htm)
 [Lab website](http://www.people.vcu.edu/~cmgough/)
 
 
-##### Research Interests 
-  -Soil carbon cycling dynamics
-  -Forest disturbnce ecology
-  -Ecosystem stability/global change research 
+#### Research Interests 
+  - Soil carbon cycling dynamics
+  - Forest disturbnce ecology
+  - Ecosystem stability/global change research 
   
-##### Current Projects: 
+#### Current Projects: 
 Forest Resilience and Threshold Experiment (FoRTE)
 [Project Description/fortedata](https://fortexperiment.github.io/fortedata/)
 
 
-##### Other Professional Interests
+#### Other Professional Interests
 
--Climate change policy advocacy 
--Building more creative and wide-reaching platforms of science communication 
+- Climate change policy advocacy 
+- Building more creative and wide-reaching platforms of science communication 
 
 
-##### Education
+#### Education
 University of Michigan (Graduation 2018)
--Bachelors of Science: Envioronment Science
--Bachelors of Music: Cello performance 
+- Bachelors of Science: Envioronment Science
+- Bachelors of Music: Cello performance 
 
 ---
  
