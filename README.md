@@ -47,7 +47,21 @@ University of Michigan (Graduation 2018)
 - Bachelors of Music: Cello performance 
 
 ---
+### Lisa T. Haber
+[@LisaTHaber](https://twitter.com/LisaTHaber/)
+
+#### PhD student, Virginia Commonwealth University
+[Lab website](http://www.people.vcu.edu/~cmgough/)
+[@Gough_Lab](https://twitter.com/gough_lab)
  
+#### Current interests:
+- terrestrial carbon cycling (focus on temperate forests & wetlands)
+- ecosystem structural and functional response to disturbance
+- plant functional traits & ecosystem processes (patterns, mechanisms, & scaling)
+- ecosystem modeling
+- open science
+- science education & communication
+---
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
