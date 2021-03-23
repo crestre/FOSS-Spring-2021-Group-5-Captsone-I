@@ -9,14 +9,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Carla Restrepo
 
 #### Professor University of Puerto Rio Rio Piedras
-[Lab website] (http://tlselab.uprrp.edu/)
+[Lab website](http://tlselab.uprrp.edu/)
 
 #### Research Interests
  - Large-scale ecology
  - Macroecology
  - Landslides - carbon cycling
 
-Link to [my website](http://tlselab.uprrp.edu/people/carla.htm)
 
 ---
 ### Kayla C. Mathes 
