@@ -77,7 +77,9 @@ University of Michigan (Graduation 2018)
 ### Jesse McNichol 
 
 #### Postdoctoral Scholar, University of Southern California, Fuhrman lab
+
 [Personal research website](http://jcmcnch.github.io/)
+
 [Fuhrman lab research website](http://fuhrman-lab.github.io/)
 
 #### Research Interests
