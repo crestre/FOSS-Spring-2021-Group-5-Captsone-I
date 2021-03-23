@@ -16,7 +16,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
  - Macroecology
  - Landslides - carbon cycling
 
-
+![Landslides Sierra Madre de Chiapas](SierraElTriunfo.jpg)
 ---
 ### Kayla C. Mathes 
 
