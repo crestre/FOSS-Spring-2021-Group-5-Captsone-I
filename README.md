@@ -73,32 +73,14 @@ University of Michigan (Graduation 2018)
 
 - high performance computing
 ---
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Jesse McNichol 
 
-# Header 1
-## Header 2
-### Header 3
+#### Postdoctoral Scholar, University of Southern California, Fuhrman lab
+[Personal research website](http://jcmcnch.github.io/)
+[Fuhrman lab research website](http://fuhrman-lab.github.io/)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/crestre/Testing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Research Interests
+ - Marine microbial ecology of surface and deep ocean
+ - Bioinformatic workflow development
+ - Microbial physiology and genetics
