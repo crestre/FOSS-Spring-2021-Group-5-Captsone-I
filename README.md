@@ -103,4 +103,6 @@ University of Michigan (Graduation 2018)
 
 As discussed today (2021-04-13), we've agreed we should all try to learn how to use the basics of github on the command line, which we can then use to create some content following our own interests. You can either use the *Atmosphere* instance to do this, or even better would be to install git on your own computer. Instructions are [here](https://github.com/git-guides/install-git).
 
+![Git Basics Video](git-video/git-basics.mp4)
+
 Once you have 
