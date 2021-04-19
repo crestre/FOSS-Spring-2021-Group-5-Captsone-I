@@ -117,3 +117,10 @@ In any case, to be able to pull/push from the command-line as shown in the video
 4. If you added a password to your SSH key, it will ask you for this password every time you push/pull. This is kind of inconvenient, so you can use an SSH "agent" to remember that password while you have your terminal open. 
 - To get this agent running, I've used the following command: ```eval `ssh-agent -s` ; ssh-add ~/.ssh/id_ed25519``` 
 - Since this command is kind of hard to remember, you can make an [alias](https://www.shell-tips.com/bash/alias/) for this command as a memory aid and put it in your `~/.bashrc` or for Mac I think you put it in your`~/.bash_profile` (e.g. ```alias sshsetup='eval `ssh-agent -s` ; ssh-add ~/.ssh/id_ed25519'```). Then you would just have to run `sshsetup` and enter your password to get your SSH agent running every time you open your terminal.
+
+## Using github in an academic research lab environment
+
+Designing github spaces to manage lab projects
+
+Students and faculty vary greatly in their computational abilites, including managment of software, so setting a github environment can be intimidating for both parties. In an effort to overcome these difficulties I explored the use of [GitHub Desktop](https://desktop.github.com/) to create a lab web page where my students and I can share metadata, code, and some data.
+
