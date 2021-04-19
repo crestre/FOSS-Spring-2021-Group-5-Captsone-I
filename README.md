@@ -122,5 +122,5 @@ In any case, to be able to pull/push from the command-line as shown in the video
 
 Designing github spaces to manage lab projects
 
-Students and faculty vary greatly in their computational abilites, including managment of software, so setting a github environment can be intimidating for both parties. In an effort to overcome these difficulties I explored the use of [GitHub Desktop](https://desktop.github.com/) to create a lab web page where my students and I can share metadata, code, and some data.
+Students and faculty vary greatly in their computational abilites, including managment of software, so setting a github environment can be intimidating for both parties. In an effort to overcome these difficulties I explored the use of [GitHub Desktop](https://desktop.github.com/) to create a lab web page where my students and I can share metadata, code, and some data.  GitHub Desktop comes with a short tutorial that basically takes you through the steps that Jesse described: 1) create a local repo or clone an existing one, 2) edit files (I used the suggested text editor Visual Studio Code) to edit text files which I happend to have installed, and 3) make a commit, push to github and pull a request. I created subdirectories and within them files to document the contest of each project.
 
