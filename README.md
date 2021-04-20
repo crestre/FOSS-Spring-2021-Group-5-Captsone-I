@@ -81,6 +81,11 @@ Forest Resilience and Threshold Experiment (FoRTE)
 ![Phenotyping Gantry](Gantry.png)
 
 - high performance computing
+
+#### Plans for moving forward from FOSS Class 2021
+- GitHub is a very useful tool.  Much of my coding work from the past is simply stashed away in archives.  I'll spend some time moving useful code into the the public setting through GitHub. 
+- Docker will be my next focus.  I think it will be very useful.
+- MakeFlow is a workflow management tool that is similar to Snakemake.  I plan to work with MakeFlow as assistance is readily available through collaborators on my current project.
 ---
 
 ### Jesse McNichol 
