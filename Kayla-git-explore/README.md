@@ -23,6 +23,8 @@
 
 ##  What is still need to learn
 
-- Push my branch to main branch 
+- Push my branch to main branch on command line
+- Working between Rstudio and Git/github 
+
  
 
