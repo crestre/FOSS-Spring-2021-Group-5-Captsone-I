@@ -19,7 +19,7 @@
 #### PhD Student: Virginia Commonwealth University 
 [Lab website](http://www.people.vcu.edu/~cmgough/)
 
-<img src="Kayla_image .jpeg" width="200" height="200">
+<img src="Kayla_image .jpeg" width="200" height="1500">
 
 
 #### Research Interests 
