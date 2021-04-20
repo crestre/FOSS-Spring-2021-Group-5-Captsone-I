@@ -16,6 +16,8 @@
 ---
 ### Kayla C. Mathes 
 
+[@KaylaMathes1](https://twitter.com/KaylaMathes1) 
+
 #### PhD Student: Virginia Commonwealth University 
 [Lab website](http://www.people.vcu.edu/~cmgough/)
 
