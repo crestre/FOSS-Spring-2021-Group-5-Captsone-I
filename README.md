@@ -24,7 +24,8 @@
   - Soil carbon cycling dynamics
   - Forest disturbnce ecology
   - Ecosystem stability/global change research 
-![Experimental Forest Disturbance](IMG_7398.jpeg)
+!(IMG_7398.jpeg)
+
 
   
 #### Current Projects: 
