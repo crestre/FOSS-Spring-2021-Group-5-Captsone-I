@@ -19,6 +19,8 @@
 #### PhD Student: Virginia Commonwealth University 
 [Lab website](http://www.people.vcu.edu/~cmgough/)
 
+<img src="Kayla_image.jpeg" width="200" height="200">
+
 
 #### Research Interests 
   - Soil carbon cycling dynamics
@@ -31,7 +33,7 @@ Forest Resilience and Threshold Experiment (FoRTE)
 [Project Description/fortedata](https://fortexperiment.github.io/fortedata/)
 
   
-<img src="FoRTE_Girdling.jpeg" width="300" height="300">
+<img src="FoRTE_Girdling.jpeg" width="300" height="300"> <img src="tower_image.jpeg" width="300" height="300">
 
 #### Other Professional Interests
 
