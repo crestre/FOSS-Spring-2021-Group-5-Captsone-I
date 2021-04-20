@@ -24,6 +24,8 @@
   - Soil carbon cycling dynamics
   - Forest disturbnce ecology
   - Ecosystem stability/global change research 
+![Experimental Forest Disturbance](IMG_7398.jpeg)
+
   
 #### Current Projects: 
 Forest Resilience and Threshold Experiment (FoRTE)
