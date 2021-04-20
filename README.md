@@ -54,6 +54,8 @@ Forest Resilience and Threshold Experiment (FoRTE)
 #### PhD student, Virginia Commonwealth University
 [Lab website](http://www.people.vcu.edu/~cmgough/)
 [@Gough_Lab](https://twitter.com/gough_lab)
+
+<img src="IMG_8625.jpg" width="400" height="300">
  
 #### Current interests:
 - terrestrial carbon cycling (focus on temperate forests & wetlands)
@@ -62,6 +64,11 @@ Forest Resilience and Threshold Experiment (FoRTE)
 - ecosystem modeling
 - open science
 - science education & communication
+
+#### Next Steps & FOSS Spring 2021 Take-aways
+- I plan to continue exploring container and VM technologies for applicability in future workflow development (applying the axiom that we only have so much time for curiosity! Learn and apply new tools *as needed* rather than for their own sake.)
+- Currently working on learning R package development, using GitHub as the version control and collaborative platform for code development and testing. I will continue to (with much mess and consternation) teach myself Git on the command line rather than using GUIs, in order to allow for the full range of functionalities and with the goal of actually learning what I'm doing with commands, rather than it being a black box. Here is the [current project](https://github.com/FoRTExperiment/PestED) I'm working on  -- suggestions, advice, withering criticism all welcome. 
+- Plan for this summer (bonus, time allowing!): personal website development on GitHub using either [GitHub Pages](https://pages.github.com/) or [Wowchemy](https://wowchemy.com/) templates.
 ---
 ### Bob Strand
 
