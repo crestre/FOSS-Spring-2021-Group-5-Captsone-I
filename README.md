@@ -35,11 +35,10 @@ Forest Resilience and Threshold Experiment (FoRTE)
 - Climate change policy advocacy 
 - Building more creative and wide-reaching platforms of science communication 
 
-
-#### Education
-University of Michigan (Graduation 2018)
-- Bachelors of Science: Environmental Science
-- Bachelors of Music: Cello performance 
+#### Applications, lessons learned and future wishes from FOSS Class 2021
+- Git and github are the most relevant tools to my work right now. My team already uses Github on various projects and I feel more prepared to be a more active participant in those efforts as well as publish my own code, data management plans, methods and project info on this platform. 
+- I would like continue learning how to work through the git command line and to take this skill to the next level and learn the integration between R/R studio and git/github. 
+- One tool I wish we had focused more on is data archival. What are ways to archive data in the medium to long-term that complies with the FAIR data principals? 
 
 ---
 ### Lisa T. Haber
