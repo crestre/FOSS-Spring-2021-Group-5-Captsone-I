@@ -31,7 +31,7 @@ Forest Resilience and Threshold Experiment (FoRTE)
 [Project Description/fortedata](https://fortexperiment.github.io/fortedata/)
 
   
-![FoRTE Girdling](IMG_7398.jpeg)
+![FoRTE Girdling](FoRTE_Girdling.jpeg)
 
 #### Other Professional Interests
 
