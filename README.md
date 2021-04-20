@@ -24,14 +24,14 @@
   - Soil carbon cycling dynamics
   - Forest disturbnce ecology
   - Ecosystem stability/global change research 
-!(IMG_7398.jpeg)
-
-
+ 
   
 #### Current Projects: 
 Forest Resilience and Threshold Experiment (FoRTE)
 [Project Description/fortedata](https://fortexperiment.github.io/fortedata/)
 
+  
+![FoRTE Girdling](IMG_7398.jpeg)
 
 #### Other Professional Interests
 
